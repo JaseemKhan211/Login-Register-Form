@@ -1,5 +1,7 @@
 ### Login-Register-Form
-![Githup-Video-_online-video-cutter com_](https://user-images.githubusercontent.com/60065412/81800018-9be79800-952b-11ea-86f6-6e28ee767d41.gif)
+This is a simple Login | Register | Form for practicing my Web Development. Which I Build Using JavaScript
+View full project in below the link here : 
+https://jaseemkhan211.github.io/Login-Register-Form/?#login
 
 ### Built With
 - **Html5**
