@@ -1,10 +1,13 @@
 ### Login-Register-Form
-This is a simple Login | Registration | Form for practicing my Web Development. Which I Build Using JavaScript
-View full project in below the link here : Hope you like it
-https://jaseemkhan211.github.io/Login-Register-Form/?#login
+This is a simple Login | Registration | Form for practicing my Web Development.
 
 ### Built With
 - **Html5**
 - **CSS3**
 - **JavaScript**
+
+
+### View Project
+Hope you like it.View full project in bleow the link here:
+https://jaseemkhan211.github.io/Login-Register-Form/?#login
 
