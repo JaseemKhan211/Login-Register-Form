@@ -8,6 +8,6 @@ This is a simple Login | Registration | Form for practicing my Web Development.
 
 
 ### View Project
-Hope you like it.......View full project in this link here:
+Hope you like it.....View full project in this link here:
 https://jaseemkhan211.github.io/Login-Register-Form/?#login 
 
